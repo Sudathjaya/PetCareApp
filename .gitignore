@@ -1,0 +1,95 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary folders
+.tmp/
+temp/
+
+# Metro bundler
+.expo/
+.expo-shared/
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Android-specific files
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
+android/local.properties
+
+# iOS-specific files
+ios/Pods/
+ios/build/
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/
+
+# Xcode-specific
+*.pbxuser
+!default.xcworkspace
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# React Native specific files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+ios/Pods/
+*.swp
+
+# Bundle output
+*.jsbundle
+*.jsharmony
+*.map
+*.pack
+
+# Prevent tracking build folders and generated files in Expo/React Native
+.expo/
+web-build/
+*.jks
+
+# Env files
+.env
+.env.*.local
+
+# Watchman files
+.watchmanconfig
+
+# Temporary files and folders
+temp/
+tmp/
+
+# Miscellaneous
+# Yarn Integrity
+.yarn-integrity
+# Mac OS metadata
+.DS_Store
+# Coverage directory used by tools like istanbul
+coverage/
+# ios dependencies
+ios/Podfile.lock
